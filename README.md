@@ -75,3 +75,8 @@ São José dos Campos-SP, Brazil<br>
 e-mails: ricds@hotmail.com ; ricardo.silva@inpe.br<br>
 phone: +55 12 98208-5089<br>
 https://ricds.wordpress.com/<br>
+
+  
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muhammadsyukrilUGM/DL_RS_GEE/HEAD)
+  .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/muhammadsyukrilUGM/DL_RS_GEE/HEAD
